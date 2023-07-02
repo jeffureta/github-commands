@@ -21,4 +21,4 @@ Feel free to modify the script or integrate it into your own projects.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE).
+This project is licensed under the [MIT License](https://github.com/jeffureta/github-commands/blob/main/LICENSE.txt).
